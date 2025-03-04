@@ -1,6 +1,0 @@
-cd Prediction-des-maladies-cardiaques
-git status
-git add projet
-git add .
-git commit -m "Modification sur quelques parties du projet"
-git push origin main
